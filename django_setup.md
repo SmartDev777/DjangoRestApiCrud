@@ -17,22 +17,22 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 
 1 - pip install django
 
-### for version check of django
+#### for version check of django
 `python -m django --version`
 
-### for making django project
+#### for making django project
 `django-admin startproject projectkaname`
 
 
-### 4- Run Project
+#### 4- Run Project
 `python manage.py runserver`
 
-### 5- for making django app
+#### 5- for making django app
 `python manage.py startapp appkanaam`
 
-### 6- make urls.py file in every app
+#### 6- make urls.py file in every app
 
-### 7. add the app in setting.py 
+#### 7. add the app in setting.py 
  `'home.apps.HomeConfig',`
 
 
